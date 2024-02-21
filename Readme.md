@@ -8,7 +8,5 @@ Preview
     <img src="https://i.imgur.com/tnNECdt.png" alt="Image Description" width="300" height="630"> 
     <img src="https://i.imgur.com/QNgh3RX.png" alt="Image Description" width="300" height="630">
 </div>
-
----
-
+<br>
 Thanks to [15Dkatz](https://github.com/15Dkatz/official_joke_api) for providing the free joke api
