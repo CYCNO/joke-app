@@ -14,23 +14,23 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.auseramongus.FirstProject"
+      "bundleIdentifier": "com.user.JokeApp"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.auseramongus.FirstProject"
+      "package": "com.user.JokeApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "0332d99c-bc0b-41b9-a13a-a70edc7ba45b"
+        "projectId": "projectId"
       }
     },
-    "owner": "auseramongus"
+    "owner": "user"
   }
 }
